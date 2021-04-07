@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Din-Avrunin
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning fullstack
-- 💞️ I’m looking to collaborate on Vue projects
+- 💞️ I’m looking for a job these days
 - 📫 How to reach me - mail to din.avrunin@gmail.com
 
 <!---
